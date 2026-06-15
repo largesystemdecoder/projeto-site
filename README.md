@@ -1,6 +1,5 @@
-# projeto-site
 
-lsd25.vercel.app
+lsd-25.vercel.app
 
 
 # Projeto criado com IA, como resolução de um exercício.
