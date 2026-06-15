@@ -11,7 +11,8 @@ a proposta era criar uma página com auxílio de IA, baseada em um modelo pré e
 - menu com 4 opções e links funcionais: inínio - serviços - sobre -mapa;
 - uma div com uma imagem, ao estilo painel;
 - uma div, contendo 3 subdivs com imagens ou textos;
-- mapa de localização funional.
+- mapa de localização funional;
+- rodapé.
 
   Projeto executado em 15/06/2026.
   
