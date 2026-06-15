@@ -1,5 +1,5 @@
 
-lsd1.vercel.app
+# lsd1.vercel.app
 
 
 # Projeto criado com IA, como resolução de um exercício.
