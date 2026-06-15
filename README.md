@@ -1,3 +1,3 @@
 # projeto-site
 
-lsdsite.vercel.app
+lsd25.vercel.app
